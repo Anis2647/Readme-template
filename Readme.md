@@ -95,7 +95,7 @@ http://www.studywithanis.com
 
 ### image syntax with html code
 
-<img src="./image/me.JPG" width="200" title="Profile Image"/>
+<img src="./image/me.JPG" width="300" title="Profile Image"/>
 
 ### imoji add
 <!--go to imoji website & just copy a imoji, then paste here-->
