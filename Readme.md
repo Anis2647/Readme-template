@@ -90,5 +90,22 @@ http://www.studywithanis.com
 [websitelink]: http://www.studywithanis.com
 [facebooklink]: http://facebook.com
 
-### image syntax
+### image syntax with markdown code
 ![profile](./image/me.jpg)
+
+### image syntax with html code
+
+<img src="./image/me.JPG" width="200" title="Profile Image"/>
+
+### imoji add
+<!--go to imoji website & just copy a imoji, then paste here-->
+😊
+
+<br/>
+
+### Table syntax
+| Name | Email|
+|-----|------|
+|Anisur Rahman | anis@mail.com |
+|Anis | anisurrahman330@gmail.com|
+|Anisur Rahman anis | anisur@yahoo.com|
